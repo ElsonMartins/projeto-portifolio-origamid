@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap');
+@import './global.css';
+@import './header.css';
 
-* {
-  padding: 0;
-  margin: 0;
-  font-family: 'Fira Sans', sans-serif;
-}
+
+
+
+
+
